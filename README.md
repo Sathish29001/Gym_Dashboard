@@ -59,7 +59,7 @@
  Screenshots/Demo:
  
  Show what the dashboard looks like,
-                                ![Dashboard Preview](https://github.com/Sathish29001/Gym_Dashboard/blob/main/Gym%20Daashboard%20Main%20Page.png)
+                                ![Dashboard Preview](https://github.com/Sathish29001/Gym_Dashboard/blob/main/Gym%20Home%20Page%20Dashboard.png)
                                  ![Dashboard Preview](https://github.com/Sathish29001/Gym_Dashboard/blob/main/Gym%20Daashboard%20Main%20Page.png)
-                                  ![Dashboard Preview](https://github.com/Sathish29001/Gym_Dashboard/blob/main/Gym%20Daashboard%20Main%20Page.png)
-                                   ![Dashboard Preview](https://github.com/Sathish29001/Gym_Dashboard/blob/main/Gym%20Daashboard%20Main%20Page.png)
+                                  ![Dashboard Preview](https://github.com/Sathish29001/Gym_Dashboard/blob/main/Gym%20Calorie%20Track%20Dashboard.png)
+                                   ![Dashboard Preview](https://github.com/Sathish29001/Gym_Dashboard/blob/main/Member%20Details%20Dashboard.png)
