@@ -59,4 +59,4 @@
  Screenshots/Demo:
  
  Show what the dashboard looks like,
-                                Example: (https://github.com/Sathish29001/Gym_Dashboard/blob/main/Gym%20Daashboard.png)
+                                Example:![Dashboard Preview](https://github.com/Sathish29001/Gym_Dashboard/blob/main/Gym%20Daashboard.png)
