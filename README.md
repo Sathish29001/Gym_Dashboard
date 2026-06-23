@@ -45,4 +45,4 @@ IronPulse unites your gym's pulse. By marrying executive financial reporting wit
 
  Screenshots/Demo:
  Show what the dashboard looks like.
- Example: 
+ Example: (https://github.com/Sathish29001/Gym_Dashboard/blob/main/Gym%20Daashboard.png)
