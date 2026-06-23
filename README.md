@@ -34,15 +34,14 @@ IronPulse unites your gym's pulse. By marrying executive financial reporting wit
 
 📈 Business Insights & Impact
 🔍 Tactical Insights:
-   1. Demographic Target: Analytics show the 40–60 age group dominates premium memberships (Gold/Platinum), allowing management to confidently redirect marketing   budgets toward this high-value segment. 
+   1. Demographic Target: Analytics show the 40–60 age group dominates premium memberships (Gold/Platinum), allowing management to redirect marketing budgets toward this high-value segment confidently. 
    2. Premium Validation: High volume in Platinum and Gold tiers proves members prefer premium offerings, paving the way for upselling strategies. 
    3. High-Margin Operations: Direct visibility into a 75% net profit margin ($4M Revenue vs. $1M Expenses) empowers owners to make aggressive, data-backed expansion decisions.
 
 ⚡ Bottom-Line ImpactProactive:
-    1. Churn Control: Live Active/Expired status trackers allow staff to immediately flag member drop-offs and launch targeted win-back campaigns. 
+    1. Churn Control: Live Active/Expired status trackers allow staff to flag member drop-offs and launch targeted win-back campaigns immediately. 
     2. Enhanced Retention: Providing built-in value adds—like interactive BMI, BMR, and TDEE trackers—increases daily user touchpoints and boosts gym loyalty.         3. Optimized Capacity: Tracking seasonal member spikes (e.g., the November peak) allows for precision scheduling of trainers and class capacities.  
 
 
  Screenshots/Demo:
- Show what the dashboard looks like.
- Example: (https://github.com/Sathish29001/Gym_Dashboard/blob/main/Gym%20Daashboard.png)
+ Show what the dashboard looks like, Example: (https://github.com/Sathish29001/Gym_Dashboard/blob/main/Gym%20Daashboard.png)
